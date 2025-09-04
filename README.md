@@ -1,7 +1,7 @@
-# Weather-Website
+# CloudPoint Analytics
 
 
-A weather website that displays current weather conditions and a 5-day forecast for any city worldwide.
+CloudPoint Analytics is a website that displays current weather conditions and a 5-day forecast for any city worldwide.
 
 Features
 
