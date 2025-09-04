@@ -1,0 +1,9 @@
+for python/backend to run, type this into terminal:
+
+cd backend
+./venv/bin/uvicorn app:app --host 127.0.0.1 --port 8000 --reload
+
+
+for website to run, type this into terminal:
+
+npm run dev 
