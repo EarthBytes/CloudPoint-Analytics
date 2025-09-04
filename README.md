@@ -4,6 +4,7 @@
 A weather website that displays current weather conditions and a 5-day forecast for any city worldwide.
 
 Features
+
 Current Weather Data:
 - Temperature in °C/°F
 - Feels Like Temperature
