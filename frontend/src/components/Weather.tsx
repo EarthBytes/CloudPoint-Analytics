@@ -147,7 +147,7 @@ const Weather: React.FC = () => {
         maxWidth: 880
       }}>
         <div style={{ display: "grid", gridTemplateColumns: "1fr auto auto", gap: 8, alignItems: "center", marginBottom: 16 }}>
-          <h1 style={{ fontSize: 28, fontWeight: 700 }}>Weather</h1>
+          <h1 style={{ fontSize: 28, fontWeight: 700, background: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text" }}>CloudPoint Analytics</h1>
           <div style={{ display: "flex", gap: 8, justifySelf: "end" }}>
             <button onClick={() => setUnits("metric")} disabled={units === "metric"} style={{
               background: units === "metric" ? "#0ea5e9" : "#e2e8f0",
