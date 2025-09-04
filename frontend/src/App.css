@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+/* Minimal helper classes reserved for potential future use */
+.card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  padding: 20px;
+}
